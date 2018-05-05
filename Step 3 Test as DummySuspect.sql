@@ -1,5 +1,5 @@
 /*
-Log in to your test-server AS the SQL login you created before, 'DummyUser'.
+Log in to your test-server AS the [DummySuspect] SQL login you created in step 1.
 */
 
 --> who am I?
